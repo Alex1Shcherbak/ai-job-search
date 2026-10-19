@@ -15,77 +15,62 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
-### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:**
-  | Language | Level |
-  |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+Identity
+- Name: Oleksandr Shcherbak[cite: 1]
+- Location: Pomichna, Ukraine (Remote only)[cite: 1]
+- Languages:
+  - Ukrainian: Native[cite: 3]
+  - English: Intermediate (B1, actively studying for B2)[cite: 3]
+- CV language: English
+- Status: Full-time QA Engineer[cite: 1]
+- LinkedIn headline: "QA Engineer | Web & API Testing | Test Automation | iGaming"[cite: 1]
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+Education
+- Bachelor's Degree in Railway Technology (2020-2023) - Ukrainian State University of Science and Technologies[cite: 3]
 
-### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+Professional Experience
+- Manual QA Engineer (Dec 2025 - Aug 2026) - EJAW[cite: 2]
+  - Performed functional, UI/UX, smoke, and regression testing of mobile, desktop, and web applications[cite: 2].
+  - Created and maintained test documentation: test plans, checklists, and detailed test cases[cite: 2].
+  - Verified builds against technical requirements and executed cross-browser/cross-device testing using DevTools and BrowserStack[cite: 2].
+  - Logged and tracked defects in Jira with clear steps to reproduce[cite: 2].
 
-### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- Manual QA Engineer (Jun 2025 - Oct 2025) - King Group[cite: 2]
+  - Tested complex gambling web platforms end-to-end: functional, UI/UX, regression, smoke, and ad-hoc testing[cite: 2].
+  - Wrote and ran SQL (MySQL, PostgreSQL) queries to verify data persistence, transaction integrity, and state transitions[cite: 2].
+  - Monitored CI/CD build statuses in Jenkins and independently launched test environments[cite: 2].
+  - Investigated application logs and error patterns in OpenSearch to speed up root cause analysis[cite: 2].
+  - Analyzed requests, responses, and WebSocket events in Chrome/Firefox DevTools[cite: 2].
 
-### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- QA Engineer (Nov 2024 - May 2025) - i love my team[cite: 2]
+  - Performed REST API testing in Postman: verified authentication, status codes, response schemas, and JSON payloads[cite: 3].
+  - Designed and executed negative test scenarios to check input validation and boundary/edge cases[cite: 3].
+  - Validated UI/UX against Figma design specifications[cite: 2].
+  - Analyzed response headers, payload structure, and latency to detect performance bottlenecks[cite: 3].
+  - Participated in the full Scrum cycle: daily stand-ups, sprint planning, retrospectives[cite: 3].
 
-### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+Technical Skills
+- Primary: REST API Testing, Functional Testing, Regression/Smoke/Sanity Testing, API Schema Validation, Contract Testing[cite: 1].
+- Secondary: UI/UX Testing, Log Analysis, Test Documentation, CI/CD monitoring[cite: 1].
+- Domain: iGaming, Digital Products, Web Applications, Mobile & Desktop Applications[cite: 1].
+- Software: Python, Playwright, Pytest, Docker, Docker Compose, HTML, CSS, JavaScript, Schemathesis, Postman, Bruno, Swagger, SQL (MySQL, PostgreSQL), Jira, TestRail, Testmo, Confluence, OpenSearch, Jenkins[cite: 1].
 
-### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+Certifications
+- Postman API Fundamentals Student Expert - Postman[cite: 3]
+- QA Engineering Fundamentals - Lemon.school, Prometheus[cite: 3]
 
-### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+Behavioral Profile
+- Detail-oriented: Thorough in investigating root causes using logs and dev tools before escalating issues[cite: 2].
+- Collaborative: Works closely with developers, BAs, and PMs to clarify requirements early[cite: 1, 2].
+- Proactive: Independently launches environments and monitors CI/CD builds[cite: 2].
+- Strengths: API testing, relational databases (SQL), writing clear bug reports, test automation setup[cite: 1].
+- Thrives in: Agile/Scrum environments with direct communication between QA and engineering[cite: 1, 2, 3].
 
-### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+Target Sectors
+- iGaming, SaaS, Web Product Companies, API-driven architectures.
 
-### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
-
-### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
-
-### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+Deal-breakers
+- Office presence required (only looking for remote roles).
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
