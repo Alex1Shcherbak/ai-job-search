@@ -17,7 +17,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 Identity
 - Name: Oleksandr Shcherbak[cite: 1]
-- Location: Pomichna, Ukraine (Remote only)[cite: 1]
+- Location: Kropyvnytskiy, Ukraine (Remote only)[cite: 1]
 - Languages:
   - Ukrainian: Native[cite: 3]
   - English: Intermediate (B1, actively studying for B2)[cite: 3]
